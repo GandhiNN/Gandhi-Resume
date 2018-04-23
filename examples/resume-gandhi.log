@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  22 APR 2018 09:20
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  23 APR 2018 12:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1004,9 +1004,34 @@ tly
 )
 \Hy@SectionHShift=\skip78
 )
-LaTeX Info: Redefining \FA on input line 164.
+LaTeX Info: Redefining \FA on input line 165.
 \g__fontspec_family_Roboto_int=\count180
 )
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count181
+\lst@gtempboxa=\box64
+\lst@token=\toks36
+\lst@length=\count182
+\lst@currlwidth=\dimen258
+\lst@column=\count183
+\lst@pos=\count184
+\lst@lostspace=\dimen259
+\lst@width=\dimen260
+\lst@newlines=\count185
+\lst@lineno=\count186
+\lst@maxwidth=\dimen261
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count187
+\lst@skipnumbers=\count188
+\lst@framebox=\box65
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
 (./resume-gandhi.aux)
 \openout1 = `resume-gandhi.aux'.
 
@@ -1069,7 +1094,7 @@ LaTeX Info: Redefining \selectfont on input line 76.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\g__fontspec_family_latinmodern-math.otf_int=\count181
+\g__fontspec_family_latinmodern-math.otf_int=\count189
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 76.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -1103,7 +1128,7 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/bx/n on inp
 ut line 76.
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box64
+\AtBeginShipoutBox=\box66
 Package hyperref Info: Link coloring OFF on input line 76.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1112,7 +1137,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count182
+\c@section@level=\count190
 )
 LaTeX Info: Redefining \ref on input line 76.
 LaTeX Info: Redefining \pageref on input line 76.
@@ -1122,6 +1147,7 @@ LaTeX Info: Redefining \nameref on input line 76.
 \@outlinefile=\write6
 \openout6 = `resume-gandhi.out'.
 
+\c@lstlisting=\count191
 \headertextwidth=\skip79
 \headerphotowidth=\skip80
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
@@ -1156,7 +1182,9 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 16.0pt on input line 4.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 10.
+(Font)              scaled to size 9.0pt on input line 9.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/bx/n' will be
+(Font)              scaled to size 9.0pt on input line 12.
 ) (./resume/experience.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 25.
@@ -1191,12 +1219,12 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 106.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 106.
  ) 
 Here is how much of TeX's memory you used:
- 36961 strings out of 493005
- 721627 string characters out of 6134596
- 912813 words of memory out of 5000000
- 40453 multiletter control sequences out of 15000+600000
- 6090 words of font info for 74 fonts, out of 8000000 for 9000
+ 38131 strings out of 493005
+ 739045 string characters out of 6134596
+ 931353 words of memory out of 5000000
+ 41610 multiletter control sequences out of 15000+600000
+ 6098 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,11n,89p,10389b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,11n,89p,10410b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume-gandhi.pdf (1 page).

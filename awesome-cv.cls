@@ -127,6 +127,8 @@
 \definecolor{lightgray}{HTML}{999999}
 % Basic colors
 \definecolor{green}{HTML}{C2E15F}
+% Add new color of DarkGreen with HEX of 117165
+\definecolor{darkgreen}{HTML}{117A65}
 \definecolor{orange}{HTML}{FDA333}
 \definecolor{purple}{HTML}{D3A4F9}
 \definecolor{red}{HTML}{FB4485}
