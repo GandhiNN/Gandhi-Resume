@@ -1,2 +1,4 @@
 *.pdf
-examples/*.log
+*.log
+*.gz
+*.aux
